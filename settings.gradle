@@ -1,0 +1,4 @@
+include ':plugUntil'
+include ':plugb'
+include ':app'
+rootProject.name = "PlugA"
